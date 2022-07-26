@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="project-lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/commons-io-2.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commons-lang3-3.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/httpclient-4.5.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/httpcore-4.4.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/httpmime-4.5.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/json-20220320.jar!/" />
+      <root url="jar://$PROJECT_DIR$/log4j-api-2.14.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/log4j-core-2.14.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

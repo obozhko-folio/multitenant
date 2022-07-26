@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BulkEditMultitenant:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BulkEditMultitenant_jar</output-path>
+    <root id="archive" name="BulkEditMultitenant.jar">
+      <element id="module-output" name="BulkEditMultitenant" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/commons-io-2.11.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/commons-lang3-3.12.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/httpclient-4.5.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/httpcore-4.4.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/httpmime-4.5.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/json-20220320.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/log4j-api-2.14.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/log4j-core-2.14.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
